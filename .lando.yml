@@ -2,6 +2,6 @@ name: lando-tutorial
 recipe: wordpress
 config:
   webroot: web
-services: 
-  appserver: 
+services:
+  appserver:
     type: php:8.2
